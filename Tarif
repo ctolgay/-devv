@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profiterol</title>
+</head>
+
+<body  style="background-color: rgb(77, 151, 153);">
+
+    <img src="https://cdn.ye-mek.net/App_UI/Img/out/650/2015/10/pastane-usulu-profiterol-resimli-yemek-tarifi(24).jpg?h=487&w=650" alt="Profiterol" align="right">
+    <article>
+
+
+        <p> Hem gözünüze hem damağınıza hitap edecek pastane usulü profiterol tarifi.
+        </p>
+
+
+        
+        <hr>
+        <h3>Gerkli Malzemeler</h3>
+        <ul>
+            <li>150 gr Tereyağı</li>
+            <li>1,5 su bardağı su</li>
+            <li>1,5 su bardağı un</li>
+            <li>4 adet yumurta</li>
+        </ul>
+        <hr>
+       <h3>Kreması İçin</h3>
+       <ol>
+        <li>2 bardak şeker</li>
+        <li>1 paket vanilya</li>
+        <li>2 su bardağı süt</li>
+       </ol>
+      
+       <h4>Afiyet Olsun..</h4>
+      
+       
+
+    </article>
+
+
+</body>
+
+</html>
